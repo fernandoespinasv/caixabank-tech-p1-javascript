@@ -15,7 +15,7 @@ export class Brawler {
   }
 }
 
-// Ahora, llamamos a la API (añadimos export para importar posteriormente en el main)
+// Ahora, llamamos a la API (añadimos "export" para importar posteriormente en el main)
 
 export const loadBrawlers = async () => {
 
